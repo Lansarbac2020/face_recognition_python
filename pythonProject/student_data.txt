@@ -1,0 +1,36 @@
+ID: 267340
+Name: Bacoro Lansar
+Major: Computer Engineering
+Starting Year: 2022
+Total Attendance: 87
+Standing: M
+Year: 2
+Last Attendance Time: 2023-12-09 15:30:45
+
+ID: 156730
+Name: Kadidia Traore
+Major: Civil Engineering
+Starting Year: 2020
+Total Attendance: 18
+Standing: Good
+Year: 4
+Last Attendance Time: 2023-12-11 00:32:45
+
+ID: 321798
+Name: Barack Obama
+Major: Ex-President
+Starting Year: 2020
+Total Attendance: 20
+Standing: VG
+Year: 3
+Last Attendance Time: 2023-05-11 13:32:35
+
+ID: 345500
+Name: Mohamed L Cisee
+Major: Civil-Eng
+Starting Year: 2022
+Total Attendance: 17
+Standing: G
+Year: 2
+Last Attendance Time: 2023-05-11 08:32:35
+
