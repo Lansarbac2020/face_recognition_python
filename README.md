@@ -32,7 +32,7 @@ This project implements a real-time face attendance system integrated with a bac
    ```
 
 ## Configuration
-- Modify the database connection settings in `config.py` to match your environment.
+- Modify the database connection settings in `main.py` and `env` file to match your environment.
 - Adjust face recognition parameters in `config.py` for optimal performance.
 
 ## Contributing
