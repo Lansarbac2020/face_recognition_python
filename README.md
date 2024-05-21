@@ -45,3 +45,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 6. Create a new Pull Request.
 7. lansarbacoro@gmail.com
 
+![Screenshot from 2024-05-21 21-48-35](https://github.com/Lansarbac2020/face_recognition_python/assets/127045164/5d6adf4b-f0b5-4412-b928-50d3f2ca69ec)
+
+
+
+![Screenshot from 2024-05-21 21-51-27](https://github.com/Lansarbac2020/face_recognition_python/assets/127045164/cb283640-1a08-4aa1-a2a8-5ddbb2a32f20)
+
+
+
+![Screenshot from 2024-05-21 21-53-42](https://github.com/Lansarbac2020/face_recognition_python/assets/127045164/e67edfaa-41a4-45dc-81c9-30a2da9f2c96)
