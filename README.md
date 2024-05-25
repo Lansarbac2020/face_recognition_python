@@ -47,6 +47,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ![Screenshot from 2024-05-21 21-48-35](https://github.com/Lansarbac2020/face_recognition_python/assets/127045164/5d6adf4b-f0b5-4412-b928-50d3f2ca69ec)
 
+Debugging outputs
+
+![Screenshot from 2024-05-21 21-54-38](https://github.com/Lansarbac2020/face_recognition_python/assets/127045164/c95038ba-0f76-406d-a877-b9eff87e1291)
 
 
 
