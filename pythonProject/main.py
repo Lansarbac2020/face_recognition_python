@@ -42,7 +42,7 @@ encodeListKnown, studentIds = encodeListKnownWithIds
 # print(studentIds)
 print("Encode File Loaded successfully...")
 
-# Create a file to write student data
+# Create a file to write students data
 with open("student_data.txt", "w") as file:
     for student_id in studentIds:
         student_data = db.reference(f'Students/{student_id}').get()
